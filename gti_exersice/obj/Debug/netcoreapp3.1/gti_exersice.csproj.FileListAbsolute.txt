@@ -1,0 +1,14 @@
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\bin\Debug\netcoreapp3.1\gti_exersice.exe
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\bin\Debug\netcoreapp3.1\gti_exersice.deps.json
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\bin\Debug\netcoreapp3.1\gti_exersice.runtimeconfig.json
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\bin\Debug\netcoreapp3.1\gti_exersice.runtimeconfig.dev.json
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\bin\Debug\netcoreapp3.1\gti_exersice.dll
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\bin\Debug\netcoreapp3.1\gti_exersice.pdb
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\obj\Debug\netcoreapp3.1\gti_exersice.csproj.AssemblyReference.cache
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\obj\Debug\netcoreapp3.1\gti_exersice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\obj\Debug\netcoreapp3.1\gti_exersice.AssemblyInfoInputs.cache
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\obj\Debug\netcoreapp3.1\gti_exersice.AssemblyInfo.cs
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\obj\Debug\netcoreapp3.1\gti_exersice.csproj.CoreCompileInputs.cache
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\obj\Debug\netcoreapp3.1\gti_exersice.dll
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\obj\Debug\netcoreapp3.1\gti_exersice.pdb
+C:\Users\Влад\Desktop\gti_exersice\gti_exersice\obj\Debug\netcoreapp3.1\gti_exersice.genruntimeconfig.cache
